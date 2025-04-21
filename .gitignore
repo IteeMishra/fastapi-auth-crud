@@ -23,3 +23,7 @@ Thumbs.db
 
 # Migrations
 migrations/
+
+
+#notes file
+.notes.txt
